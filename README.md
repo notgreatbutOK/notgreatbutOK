@@ -4,7 +4,7 @@ Final-year CS student at Gopalan College, Bangalore. I build full-stack web apps
 
 ---
 
-## 🚀 Projects
+## 🚀 Recent Project
 
 ### 🛒 Kirana Store SaaS — *Completed*
 > A full-stack SaaS app for managing kirana store operations — built end-to-end with a team.
