@@ -46,14 +46,6 @@ Final-year CS student at Gopalan College, Bangalore. I build full-stack web apps
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=gurramharsha2005@gmail.com)
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=notgreatbutOK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=notgreatbutOK&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=notgreatbutOK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
