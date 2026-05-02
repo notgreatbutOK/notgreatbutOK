@@ -3,6 +3,11 @@
 > Final-year Computer Science student | Backend-focused | Building real-world web apps
 
 ---
+# visitor count
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/notgreatbutOK/count.svg" alt="Visitor's Count" />
+</div>
 
 ## 🚀 About Me
 
