@@ -3,7 +3,7 @@
 > Final-year Computer Science student | Backend-focused | Building real-world web apps
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=notgreatbutOK&icon=3&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=notgreatbutOK&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
