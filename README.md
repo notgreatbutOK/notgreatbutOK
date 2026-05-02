@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/notgreatbutOK/notgreatbutOK/main/download.jfif" width="200" />
 </p>
+
+
+
+
 # 👨‍💻 Gurram Harshavardhan
 
 > Final-year Computer Science student | Backend-focused | Building real-world web apps
