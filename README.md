@@ -3,7 +3,7 @@
 > Final-year Computer Science student | Backend-focused | Building real-world web apps
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/notgreatbutOK/count.svg" >
+  <img src="https://visitcount.itsvg.in/api?id=notgreatbutOK&icon=3&color=6" />
 </p>
 
 ---
