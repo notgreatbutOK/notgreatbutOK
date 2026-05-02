@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notgreatbutOK/notgreatbutOK/main/download.jfif" width="130" />
+  <img src="https://raw.githubusercontent.com/notgreatbutOK/notgreatbutOK/main/download.jfif" width="200" />
 </p>
 # 👨‍💻 Gurram Harshavardhan
 
