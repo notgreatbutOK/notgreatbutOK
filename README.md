@@ -3,6 +3,13 @@
 > Final-year Computer Science student | Backend-focused | Building real-world web apps
 
 <p align="center">
+  <img src="https://profile-counter.glitch.me/notgreatbutOK/count.svg?style=flat-square&color=00ff00" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/notgreatbutOK/count.svg" />
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=notgreatbutOK&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
