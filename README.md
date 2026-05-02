@@ -2,12 +2,11 @@
 
 > Final-year Computer Science student | Backend-focused | Building real-world web apps
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/notgreatbutOK/count.svg" alt="Visitor Count" />
+</p>
+
 ---
-# visitor count
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/notgreatbutOK/count.svg" alt="Visitor's Count" />
-</div>
 
 ## 🚀 About Me
 
@@ -36,7 +35,7 @@ Full-stack SaaS platform to manage kirana store operations.
 * 🌐 Frontend: HTML, CSS, JavaScript
 * 🔁 Git-based team collaboration
 
-👉 https://github.com/notgreatbutOK/KiranaStore_Saas_project
+👉 [View Project](https://github.com/notgreatbutOK/KiranaStore_Saas_project)
 
 ---
 
