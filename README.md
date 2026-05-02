@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/notgreatbutOK/notgreatbutOK/main/download.jfif" width="200" />
+  <img src="https://raw.githubusercontent.com/notgreatbutOK/notgreatbutOK/main/download.jfif" width="140" />
 </p>
 
 
