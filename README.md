@@ -1,12 +1,3 @@
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/notgreatbutOK/notgreatbutOK/main/directed%20by%20robert%20b_%20weide.jfif" width="300" />
-</p>
-
-
-
-
 # 👨‍💻 Gurram Harshavardhan
 
 > Final-year Computer Science student | Backend-focused | Building real-world web apps
@@ -62,14 +53,15 @@ JavaScript • Node.js • MongoDB • MySQL • Python • Git • GitHub • V
     <img alt="snake" src="https://raw.githubusercontent.com/notgreatbutOK/notgreatbutOK/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
 ---
 
-## 📊 Stats
 
-![](https://github-contributor-stats.vercel.app/api?username=notgreatbutOK\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notgreatbutOK/notgreatbutOK/main/directed%20by%20robert%20b_%20weide.jfif" width="300" />
+</p>
+
+
 
 ## 🧠 Dev Quote
 
