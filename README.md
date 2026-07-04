@@ -57,11 +57,6 @@ JavaScript • Node.js • MongoDB • MySQL • Python • Git • GitHub • V
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/notgreatbutOK/notgreatbutOK/main/directed%20by%20robert%20b_%20weide.jfif" width="300" />
-</p>
-
-
 
 ## 🧠 Dev Quote
 
