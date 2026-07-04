@@ -1,4 +1,4 @@
-# 👨‍💻 Gurram Harshavardhan
+#  Gurram Harshavardhan
 
 > Final-year Computer Science student | Backend-focused | Building real-world web apps
 
@@ -8,12 +8,12 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 🎓 Final-year CS student at Gopalan College, Bangalore
-* ⚙️ Focused on backend development & system design
-* 🧠 Currently improving Node.js, APIs & database architecture
-* 💡 Interested in building scalable SaaS products
+*  Final-year CS student at Gopalan College, Bangalore
+*  Focused on backend development & system design
+*  Currently improving Node.js, APIs & database architecture
+*  Interested in building scalable SaaS products
 
 ---
 
@@ -22,22 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gurram-harshavardhan2005/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:gurramharsha2005@gmail.com)
 
----
 
-## 🛒 Featured Project
-
-### Kirana Store SaaS
-
-Full-stack SaaS platform to manage kirana store operations.
-
-* 🔧 Backend: Node.js, Express.js
-* 🗄️ Database: MongoDB
-* 🌐 Frontend: HTML, CSS, JavaScript
-* 🔁 Git-based team collaboration
-
-👉 [View Project](https://github.com/notgreatbutOK/KiranaStore_Saas_project)
-
----
 
 ## 💻 Tech Stack
 
