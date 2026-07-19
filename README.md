@@ -28,19 +28,6 @@
 
 JavaScript • Node.js • MongoDB • MySQL • Python • Git • GitHub • Vercel • Render
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notgreatbutOK/notgreatbutOK/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/notgreatbutOK/notgreatbutOK/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
----
-
-
 
 
 ## 🧠 Dev Quote
